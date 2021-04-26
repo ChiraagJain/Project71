@@ -1,0 +1,79 @@
+body {
+    text-align: center;
+}
+
+input {
+    background-color: gray;
+}
+
+.achievements-head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.achievements-head i {
+    float: right;
+}
+
+.campuslife-mainDiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.campuslife-mainDiv h5,
+.campuslife-mainDiv p {
+    margin-left: 20px;
+}
+
+.what’snew-li {
+    margin-top: 13px;
+}
+
+.what’snew-li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.what’snew-li img {
+    border-radius: 25px;
+    height: 300px;
+    width: 350px;
+}
+
+.what’snew-li p {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.img-modal {
+    display: inline-block;
+}
+
+.p-modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.album {
+    cursor: pointer;
+}
+
+.album hr {
+    margin-bottom: 10px;
+}
+.album img{
+    height: 300px
+}
